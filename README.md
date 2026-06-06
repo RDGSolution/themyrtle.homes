@@ -14,6 +14,20 @@ No frameworks, no build tools, no complexity. Just pure HTML, CSS, JavaScript, a
 
 ---
 
+## Powered by / Được hỗ trợ bởi
+
+### Claude AI (Anthropic) + Amazon Bedrock
+
+Dự án này sử dụng **Claude** — mô hình AI của [Anthropic](https://www.anthropic.com), vận hành trên nền tảng **[Amazon Bedrock](https://aws.amazon.com/bedrock/)**.
+
+Amazon Bedrock là dịch vụ fully managed của AWS, cho phép truy cập các foundation model hàng đầu thông qua một API duy nhất. Với Bedrock, Claude có thể được triển khai ở quy mô enterprise với độ bảo mật, hiệu suất và tính sẵn sàng cao.
+
+This project uses **Claude** — an AI model by [Anthropic](https://www.anthropic.com), running on **[Amazon Bedrock](https://aws.amazon.com/bedrock/)**.
+
+Amazon Bedrock is a fully managed AWS service that provides access to leading foundation models through a single API. With Bedrock, Claude can be deployed at enterprise scale with high security, performance, and availability.
+
+---
+
 ## Tech Stack
 
 | Technology | Purpose / Mục đích |
@@ -24,6 +38,7 @@ No frameworks, no build tools, no complexity. Just pure HTML, CSS, JavaScript, a
 | Google Fonts | Playfair Display, Quicksand, Noto Sans JP/SC |
 | GitHub Pages | Hosting / Triển khai |
 | Claude AI (Anthropic) | Development assistant / Trợ lý phát triển |
+| Amazon Bedrock (AWS) | AI infrastructure / Hạ tầng AI |
 
 ## Features / Tính năng
 
