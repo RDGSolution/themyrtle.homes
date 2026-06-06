@@ -111,7 +111,7 @@ const translations = {
         // Contact
         "contact.title": "Liên Hệ & Đặt Phòng",
         "contact.address.label": "Địa chỉ",
-        "contact.address.value": "Homestay The Myrtle, Đà Lạt, Lâm Đồng",
+        "contact.address.value": "Homestay The Myrtle, 4a Ankroet, Lang Biang - Đà Lạt, Lâm Đồng, Vietnam",
         "contact.phone.label": "Điện thoại",
         "contact.phone.value": "Liên hệ qua Google Maps",
         "contact.map_btn": "&#127758; Xem trên Google Maps",
@@ -225,7 +225,7 @@ const translations = {
         // Contact
         "contact.title": "Contact & Booking",
         "contact.address.label": "Address",
-        "contact.address.value": "Homestay The Myrtle, Da Lat, Lam Dong, Vietnam",
+        "contact.address.value": "Homestay The Myrtle, 4a Ankroet, Lang Biang - Da Lat, Lam Dong, Vietnam",
         "contact.phone.label": "Phone",
         "contact.phone.value": "Contact via Google Maps",
         "contact.map_btn": "&#127758; View on Google Maps",
@@ -339,7 +339,7 @@ const translations = {
         // Contact
         "contact.title": "联系与预订",
         "contact.address.label": "地址",
-        "contact.address.value": "The Myrtle民宿，大叻市，林同省，越南",
+        "contact.address.value": "The Myrtle民宿，4a Ankroet, Lang Biang - 大叻市，林同省，越南",
         "contact.phone.label": "电话",
         "contact.phone.value": "通过Google Maps联系",
         "contact.map_btn": "&#127758; 在Google Maps上查看",
@@ -453,7 +453,7 @@ const translations = {
         // Contact
         "contact.title": "お問い合わせ・ご予約",
         "contact.address.label": "住所",
-        "contact.address.value": "The Myrtleホームステイ、ダラット市、ラムドン省、ベトナム",
+        "contact.address.value": "The Myrtleホームステイ、4a Ankroet, Lang Biang - ダラット市、ラムドン省、ベトナム",
         "contact.phone.label": "電話",
         "contact.phone.value": "Google Mapsからお問い合わせ",
         "contact.map_btn": "&#127758; Google Mapsで見る",
